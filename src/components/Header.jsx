@@ -9,14 +9,7 @@ export default function Header() {
         </h1>
       </a>
       <div className="gap-4 flex items-center ">
-        <a
-          href="https://bmc.link/smoljames"
-          target="_blank"
-          className="text-slate-600 cursor-pointer"
-          rel="noreferrer"
-        >
-          Donate
-        </a>
+
         <a
           href="/"
           className="flex items-center gap-2 specialBtn px-3 py-2 rounded-lg text-orange-400"
